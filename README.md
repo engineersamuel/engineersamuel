@@ -1,5 +1,5 @@
-Hi 👋 My name is Samuel Mendenhall
-==================================
+Hi 👋 My name is Samuel
+=======================
 
 Fullstack Software Engineer
 ---------------------------
