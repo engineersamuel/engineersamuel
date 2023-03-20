@@ -7,7 +7,7 @@ Fullstack Software Engineer
 Loving my career in software engineering for over 15 years where I've had to chance to dive deep into backend, frontend, and cloud based projects.
 
 * 🌍  I'm based in Raleigh, NC
-* 🚀  I'm currently working on [ICHI](http://ichi.org)
+* 🚀  I'm currently working at Cisco as a Technical Leader
 * 🧠  I'm learning Rust
 
 ### Skills
