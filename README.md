@@ -1,7 +1,7 @@
 Hi 👋 My name is Samuel
 =======================
 
-Fullstack Software Engineer
+Fullstack Software Engineering Leader
 ---------------------------
 
 Loving my career in software engineering for over 15 years where I've had to chance to dive deep into backend, frontend, and cloud based projects.
